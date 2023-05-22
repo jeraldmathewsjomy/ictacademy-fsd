@@ -1,0 +1,23 @@
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkolivegreen;
+}
+
+h3 {
+
+    color: black;
+}
+
+.External h3 {
+
+    background-color: aqua;
+    color: chocolate;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+
+#change p {
+
+    color: brown;
+}
